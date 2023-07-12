@@ -1,0 +1,24 @@
+.slides {
+  max-width: 100%;
+}
+.muted {
+  background-color: #F0F0F0;
+}
+@media (max-width:600px) {
+  .slides {
+    max-width: 50%;
+    padding-top: 7px;
+  }
+}
+.header,.b {
+  color: #000080;
+}
+.footer {
+  background-color: #000080;
+}
+.card-body {
+  text-align: center;
+}
+.header {
+  font-family: 'Nunito', sans-serif;
+}
